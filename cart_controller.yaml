@@ -1,0 +1,4 @@
+  my_tutorial_controller_cart:
+    type: MyControllerCart
+    root_name: torso_lift_link
+    tip_name: l_gripper_tool_frame

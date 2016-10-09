@@ -1,0 +1,5 @@
+<library path="lib/libmy_controllers">
+  <class name="MyControllerCart" 
+         type="my_controller::MyControllerCart"           
+         base_class_type="pr2_controller_interface::Controller" />
+</library>
